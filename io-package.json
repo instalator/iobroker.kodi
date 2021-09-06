@@ -1,7 +1,7 @@
 {
   "common": {
     "name": "kodi",
-    "version": "2.0.7",
+    "version": "3.0.0",
     "news": {
       "2.0.7": {
         "en": "fixed error subscribeNotification Player.OnResume [issues 49]\nadded user ratings [issues 57]\nfix error [issues 58]\nfixed error widgets",
