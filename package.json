@@ -17,7 +17,7 @@
     "url": "https://github.com/instalator/ioBroker.kodi"
   },
   "dependencies": {
-    "kodi-ws": "https://github.com/instalator/kodi-ws/tarball/master/",
+    "kodi-ws": "https://github.com/homeinstalator/kodi-ws/archive/refs/tags/v1.0.0.tar.gz",
     "@iobroker/adapter-core": "^2.4.0"
   },
   "devDependencies": {
